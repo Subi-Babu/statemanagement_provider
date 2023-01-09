@@ -43,7 +43,7 @@ class _HomeScreenproviderState extends State<HomeScreenprovider> {
                 style: const TextStyle(fontSize: 24),
               ),
               style: ElevatedButton.styleFrom(
-                  primary: Colors.red,
+                  backgroundColor: Colors.red,
                   padding: const EdgeInsets.symmetric(vertical: 20)),
             ),
             const SizedBox(
